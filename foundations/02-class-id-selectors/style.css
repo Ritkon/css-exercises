@@ -1,0 +1,27 @@
+.bg-pink {
+    background-color: hsl(347 49% 57%);
+}
+
+.bg-green {
+    background-color: hsl(145 74% 42%);
+}
+
+.fc-blue {
+    color: hsl(240, 100%, 50%);
+}
+
+.fs-6 {
+    font-size: 24px;
+}
+
+.fs-9 {
+    font-size: 36px;
+}
+
+.fw-900 {
+    font-weight: bold;
+}
+
+.ff-sans {
+    font-family: Verdana, "DejaVu Sans" , sans-serif;
+}
